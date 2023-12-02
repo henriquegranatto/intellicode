@@ -13,7 +13,7 @@ O artigo encontra-se na raiz do projeto
 ### Instalação
 
 - Tanto no diretório `backend`, quando no diretório `frontend`, execute o comando `npm install`
-- Em `/backend/service.js` adicione a sua `OPEN AI KEY` no método ``
+- Em `/backend/service.js` adicione a sua OPEN AI KEY no método `sendToGPT`
 
 ### Execução
 
