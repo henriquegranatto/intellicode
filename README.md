@@ -2,7 +2,7 @@
 
 Protótipo para o projeto apresentado à disciplina de Engenharia de Software Aplicada, do Curso de Engenharia de Software da Unisinos. O tema da pesquisa foi "Análise de Qualidade de Código com Modelos de Machine Learning"
 
-O artigo encontra na raiz do projeto
+O artigo encontra-se na raiz do projeto
 
 ### Requisitos
 
