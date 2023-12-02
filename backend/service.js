@@ -59,7 +59,7 @@ const sendToGPT = async (smell) =>
     const ComplexMethodExplain = `What is "Long Method"? "Complex Method" is a source code odor that manifests itself when a method in a computer program becomes overly complex and intricate. This smell arises due to the presence of complex logic, excessive nesting, or a combination of multiple responsibilities within a single method. Reasons for this problem to arise include a lack of decomposition of tasks into smaller, more manageable parts, as well as a lack of application of design principles such as the single responsibility principle. Effective treatment for "Complex Method" involves applying refactoring techniques such as extracting methods or reorganizing logic to reduce complexity. By simplifying the method structure, code readability is improved, making it easier to understand and maintain. The consequences of this smell include difficulties in detecting errors, increased cognitive complexity for developers and reduced adaptability of the code to future changes. Therefore, it is crucial to proactively address the "Complex Method" smell to promote software maintainability and scalability.`
     const Code = smell.code
 
-    const openai = new OpenAI({ apiKey: "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" });
+    const openai = new OpenAI({ apiKey: "OPEN_AI_KEY" });
 
     const completion = await openai.chat.completions.create({
         top_p: 1,
