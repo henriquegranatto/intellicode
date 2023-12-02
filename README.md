@@ -26,3 +26,7 @@ O artigo encontra-se na raiz do projeto
 - Informe o link públic de um repositório no Github (o código deve estar em Java)
 - Clique no botão "Analisar"
 - Aguarde o relatório ser gerado
+
+### Funcionamento
+
+![IntelliCode](https://github.com/henriquegranatto/intellicode/assets/21134145/a3205db9-0779-43e5-93ed-3bc7fefdc4a2)
