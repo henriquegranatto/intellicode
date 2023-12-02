@@ -1,0 +1,22 @@
+{
+  "name": "intellicode",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "browser": {
+    "child_process": false
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.2"
+  }
+}

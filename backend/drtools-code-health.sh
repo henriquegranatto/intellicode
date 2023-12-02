@@ -1,0 +1,1 @@
+java -jar drtools-code-health.jar $*
